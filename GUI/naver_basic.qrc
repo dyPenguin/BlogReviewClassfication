@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>naver_icon2.PNG</file>
+    <file>blog_icon_real.png</file>
+    <file>search_icon.PNG</file>
+  </qresource>
+</RCC>
