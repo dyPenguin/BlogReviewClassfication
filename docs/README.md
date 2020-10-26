@@ -49,14 +49,19 @@
  <p align="center"><블로그 하단 태그 개수 비교>  
 <img src="/img/3.블로그태그_상관관계.PNG" width="1000px" height="300px">
   
-### (4) 모델링
-#### 모델 설계
+### (4) 모델 설계
   - LSTM 모델과 DNN 모델을 결합.
   - LSTM 모델에 형태소 단위로 구성된 문장을 input 값으로 주고, 나온 출력값을 DNN 모델에 input 값으로 줌
   
   
 
  ## 4. 결론 및 한계
- ### 결과
+ ### (1) 모델 accuracy
  
- 
+| LSTM 모델 | DNN 모델  |
+|:-------------------------:|:-------------------------: |
+|<p align="center"><img src="/img/7.Model_LSTM_Result.png" width="450px" height="300px" />|<p align="center"><img src="/img/8.Model_DNN_Result.png" width="450px" height="300px" /> |
+|            | 약 98.5%의 정확도를 나타냄  |
+  
+### (2) 의의 및 개선점
+
