@@ -31,6 +31,17 @@
   
   - 광고 리뷰의 경우 '소정의 원고료를 받았습니다' 와 같은 문장이 포함되어 있으면 광고 글로 간주
   - 실제 리뷰의 경우 '내돈내산', '내돈주고', '솔직 리뷰' 와 같은 키워드가 포함되어 있으면 실제 리뷰로 간주
+ 
+ <p align="center">각 리뷰 데이터 150 개 Word2Vec 비교
   
-  수집된 데이터들 중 150 개 Word2Vec 비교
+광고 리뷰의 Word2Vec        |  실제 리뷰의 Word2Vec
+:-------------------------:|:-------------------------:
+<img src="/img/5.fake_data_cleaned_content.png" width="450px" height="300px">  | <img src="/img/5.real_data_cleaned_content.png" width="450px" height="300px"><figcaption>
+ 
+### (3) 상관 관계 분석
+<p align="center"><리뷰에 사용된 글자 수 비교>  
+<img src="/img/3.본문글자수_상관관계.PNG" width="1000px" height="300px">
+ 
+ <p align="center"><블로그 하단 태그 개수 비교>  
+<img src="/img/3.블로그태그_상관관계.PNG" width="1000px" height="300px">
   
