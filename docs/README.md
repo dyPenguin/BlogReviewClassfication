@@ -1,5 +1,9 @@
 # 블로그 리뷰 광고 분류 모델
 
+## **데이터저장소: [Datasets][drivelink]**
+
+[drivelink]: https://drive.google.com/drive/folders/1PRSHKNPuE6AGbU_cZJdeU9crbP1xsiMK?usp=sharing
+
 <p align="center"><메인 UI>
 <p align="center"><img src="/img/main화면.PNG" width="450px" height="600px"></>
   
