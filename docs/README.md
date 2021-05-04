@@ -1,5 +1,4 @@
 # 블로그 광고 리뷰 분류
-
 ## **데이터저장소: [Datasets][drivelink]**
 
 [drivelink]: https://drive.google.com/drive/folders/1PRSHKNPuE6AGbU_cZJdeU9crbP1xsiMK?usp=sharing
@@ -9,28 +8,27 @@
   
 
 ## 개요
-오늘날 
-  ### 프로젝트 목표 
+오늘날 많은 사람들이 SNS를 통해 정보를 얻고 있습니다. 그중 하나인 블로그를 통해서도 리뷰 관련 글을 많이 찾아볼 수 있는데요. 언제부턴가 대가성 리뷰가 많아지면서 비대가성 리뷰를 찾기가 어려워졌습니다.
+
+이에 **광고가 아닌 실제 리뷰만을 보고 싶은 취지**에서 프로젝트 주제를 선정하게 되었습니다.
+
+  ## 프로젝트 목표 
   협찬 및 원고료를 제공 받은 대가성 리뷰와 비대가성 리뷰를 구별할 수 있는 모델 설계 및 어플리케이션 개발
   
-  ### 조사 대상
-  네이버 블로그 중 ‘블루투스’ 관련 포스팅 리뷰
+## 조사 대상
+네이버 블로그 중 ‘블루투스’ 관련 포스팅 리뷰
   
-  ### 진행 기간
-  2020.10.06 ~ 2020.10.23
+## 진행 기간
+2020.10.06 ~ 2020.10.23
   
-  ### 작업 환경
-  - **Platform : Anaconda Python 3.7**
-  - **Tools : Colab, Jupyter Notebook, Pycharm, Anaconda3**
-  - **Package : pandas, re, selenium, numpy, konlpy, okt, matplotlib, seaborn, pickle, Pyqt5, tensorflow.keras, sklearn, time**
-
-## 2. 주제 선정 이유
-  오늘날 다수의 사람들이 SNS를 이용하는 만큼 SNS 광고도 증가하는 추세. SNS 매체 중 하나인 블로그의 경우 주로 리뷰 형식을 통해 소통함
-  그러나 블로그 역시 언제부턴가 실제 리뷰가 아닌 리뷰 형식의 광고 글이 많아졌음.
-  이에 광고가 아닌 실제 리뷰만을 보고 싶은 취지에서 본 프로젝트의 주제를 ‘블로그 리뷰 광고 분류 모델 생성’으로 선정
+## 작업 환경
+ - **Platform : Anaconda Python 3.7**
+ - **Tools : Colab, Jupyter Notebook, Pycharm, Anaconda3**
+ - **Package : pandas, re, selenium, numpy, konlpy, okt, matplotlib, seaborn, pickle, Pyqt5, tensorflow.keras, sklearn, time**
   
-## 3. 프로젝트 진행 과정
-### (1) 임시 분류 기준 선정
+# 프로젝트 진행 과정
+### 1. 데이터 수집
+  (1) 입
  다음과 같은 기준에 해당하는 경우, **실제 리뷰**로 판단
  
 |임시 분류 기준 표|
