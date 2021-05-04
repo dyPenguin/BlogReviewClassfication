@@ -9,15 +9,20 @@
   
 
 ## 개요
+오늘날 
   ### 프로젝트 목표 
   협찬 및 원고료를 제공 받은 대가성 리뷰와 비대가성 리뷰를 구별할 수 있는 모델 설계 및 어플리케이션 개발
+  
   ### 조사 대상
   네이버 블로그 중 ‘블루투스’ 관련 포스팅 리뷰
-  ### 프로젝트 진행 기간 : 2020. 10. 06 ~ 2020. 10. 23
+  
+  ### 진행 기간
+  2020.10.06 ~ 2020.10.23
+  
   ### 작업 환경
-  - Platform : Anaconda Python 3.7
-  -  : **Colab, Jupyter Notebook, Pycharm, Anaconda3**
-  - 사용 패키지 : **pandas, re, selenium, numpy, konlpy, okt, matplotlib, seaborn, pickle, Pyqt5, tensorflow.keras, sklearn, time**
+  - **Platform : Anaconda Python 3.7**
+  - **Tools : Colab, Jupyter Notebook, Pycharm, Anaconda3**
+  - **Package : pandas, re, selenium, numpy, konlpy, okt, matplotlib, seaborn, pickle, Pyqt5, tensorflow.keras, sklearn, time**
 
 ## 2. 주제 선정 이유
   오늘날 다수의 사람들이 SNS를 이용하는 만큼 SNS 광고도 증가하는 추세. SNS 매체 중 하나인 블로그의 경우 주로 리뷰 형식을 통해 소통함
