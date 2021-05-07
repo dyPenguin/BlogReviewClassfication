@@ -1,7 +1,7 @@
 # 블로그 광고 리뷰 분류
 ## **데이터저장소: [Datasets][drivelink]**
 
-[drivelink]: https://drive.google.com/drive/folders/1PRSHKNPuE6AGbU_cZJdeU9crbP1xsiMK?usp=sharing
+[drivelink]: https://drive.google.com/drive/folders/1PRSHKNPuE6AGbU_cZJdeU9crbP1xsiMK?usCancel changesp=sharing
 
 <p align="center"><메인 UI>
 <p align="center"><img src="/img/main화면.PNG" width="450px" height="600px"></>
